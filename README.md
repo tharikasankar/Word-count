@@ -30,7 +30,8 @@ print('num of words={}'.format(num_words))
 ```
 
 ### OUTPUT:
-![image](https://github.com/tharikasankar/Word-count/assets/119475507/11138a0f-cd65-439b-baa6-e9c655bc9811)
+![image](https://github.com/tharikasankar/Word-count/assets/119475507/b40fdddb-13ce-4f82-9db4-0d0cf9c85ead)
+
 
 
 
